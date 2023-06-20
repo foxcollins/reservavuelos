@@ -13,6 +13,12 @@ Instalar: $composer install
 
 Modificar .env para la base de datos y migraciones
 
+$php artisan key:generate
+
+$npm install 
+
+$npm run dev
+
 despues de instalar
 
 # Instalar migraciones y seeders
